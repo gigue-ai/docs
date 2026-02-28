@@ -1,6 +1,6 @@
----
-title: "Product Overview"
-description: "A multiplayer AI workspace for revenue teams"
+# Gigue Application Overview
+**For Clients & Partners**
+
 ---
 
 ## 1. Executive Summary & Company Background
